@@ -7,7 +7,6 @@ Este repositorio es una bitácora de mi progreso en el mundo del Machine Learnin
 ### 🏠 House Prices - Advanced Regression Techniques
 * **Objetivo:** Predecir el precio de venta de viviendas mediante técnicas de regresión avanzada.
 * **Estatus:** Optimizado.
-* **Ingeniería de Variables Propias:** Uso de **PostGIS** para la generación de variables espaciales (distancias a puntos de interés, densidades urbanas e intersecciones geográficas).
 
 #### 📈 Evolución del Modelo
 1.  **Iteración 1 (Base):** Uso de Random Forest con limpieza manual. Problemas detectados: Overfitting y falta de escalabilidad.
